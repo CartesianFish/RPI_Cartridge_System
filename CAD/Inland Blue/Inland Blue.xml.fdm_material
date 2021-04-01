@@ -18,7 +18,7 @@
     <diameter>1.75</diameter>
   </properties>
   <settings>
-    <setting key="print temperature">225.0</setting>
+    <setting key="print temperature">215.0</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">100</setting>
     <setting key="standby temperature">180.0</setting>
